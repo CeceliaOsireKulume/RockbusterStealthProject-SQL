@@ -13,14 +13,20 @@ they expect data-driven answers that they can use for their 2020 company strateg
 the main questions they’d l ike to answer:
 
 ● Which movies contributed the most/least to revenue gain?
+
 ● What was the average rental duration for all videos?
-● Which countries are Rockbuster customers based i n?
+
+● Which countries are Rockbuster customers based in?
+
 ● Where are customers with a high l ifetime value based?
+
 ● Do sales figures vary between geographic regions?
 
 ## Data Sets
 The data sets contain information about Rockbuster’s film inventory, customers, and payments as seen below
+
 ● The Rockbuster data set
+
 ● PostgreSQL Database (for Windows, macOS X, and Linux)
 
 ## Tools
