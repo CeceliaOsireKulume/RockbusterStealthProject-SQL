@@ -1,0 +1,13 @@
+Here is SQL Query with a common table expression
+
+WITH top_5_count_cte (customer_id, first_name, last_name, country, city) AS
+(SELECT
+        B.customer_id,
+        B.first_name,
+        B.last_name,
+        E.country,
+        D.city,
+SUM (A.amount) AS total_amount_paid
+FROM
+payment A
+
