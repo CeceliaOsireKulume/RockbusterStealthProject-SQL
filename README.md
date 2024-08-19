@@ -39,6 +39,6 @@ Excell for technical presentation
 Lucidchart for creating Entity Relationship Daiagram (ERD)
 
 ## Link to Tableau storyboard
-<a href="(https://public.tableau.com/app/profile/cecelia.osire.kulume/viz/Tablue_17208717083760/Story1?publish=yes)"> Tableau workbook </a>
+"(https://public.tableau.com/app/profile/cecelia.osire.kulume/viz/Tablue_17208717083760/Story1?publish=yes)"> Tableau workbook </a>
 
  
