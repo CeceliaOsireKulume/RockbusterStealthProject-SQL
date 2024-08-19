@@ -32,7 +32,7 @@ The data sets contain information about Rockbuster’s film inventory, customers
 ## Tools
 SQL for Visualization and story telling
 
-Tablue for visualization and presentation
+Tableau for visualization and presentation
 
 Excell for technical presentation
 
